@@ -1,5 +1,5 @@
 import java.util.*;
-public class P8sol{
+public class P8{
   public static  void main(String args[]){
     Scanner s=new Scanner (System.in);
     System.out.println("enter the alphabet");
